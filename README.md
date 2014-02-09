@@ -1,4 +1,8 @@
 osX_firefox_windowLoader
 ========================
 
-shellscript to open all adresses from a ASCII-file in new windows. OS-X exclusively. 
+Shellscript to open all adresses from a ASCII-file in new firefox tabs. OS-X exclusively. 
+
+to iniate script run following in terminal:
+
+bash ffwindows.sh webadresses
